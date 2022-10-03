@@ -1,0 +1,3 @@
+Hai, nice to meet you.
+Please Create new file, using your id and your name.
+Use following format NIM-NAMA
